@@ -62,6 +62,10 @@ uvicorn main:app --reload
 # Run Frontend
 streamlit run frontend.py
 ```
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 ##⚠️ Important Notes
 Database file hall_booking.db is excluded from GitHub for security & storage reasons.
