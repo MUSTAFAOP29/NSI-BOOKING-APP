@@ -35,14 +35,14 @@ streamlit run frontend.py
 
 ```
 ## 📁 Folder Structure
-
+```
 NSI-Booking-App/
 │
 ├── main.py             # FastAPI backend
 ├── frontend.py         # Streamlit frontend
 ├── requirements.txt    # All required packages
 └── hall_booking.db     # (ignored) SQLite DB file
-
+```
 ##📦 Installation & Setup
 ```
 # Clone the repo
