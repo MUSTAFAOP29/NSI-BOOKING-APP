@@ -62,14 +62,19 @@ uvicorn main:app --reload
 # Run Frontend
 streamlit run frontend.py
 ```
+
+
+## ⚠️ Important Notes
+Database file hall_booking.db is excluded from GitHub for security & storage reasons.
+The backend must be running before accessing the Streamlit frontend.
+Database file hall_booking.db is excluded from GitHub for security & storage reasons.
+The backend must be running before accessing the Streamlit frontend.
+
+
 ## Screenshots
 
 ![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/MUSTAFAOP29/NSI-BOOKING-APP/blob/05aea1de860856a3bfd499414c8732d926e302d5/Screenshot%20(2219).png))
 
-
-##⚠️ Important Notes
-Database file hall_booking.db is excluded from GitHub for security & storage reasons.
-The backend must be running before accessing the Streamlit frontend.
 
 ## 🧠 Tech Stack
 | Component  | Technology |
@@ -86,6 +91,6 @@ Syed Mustafa
 B.Tech AI & Data Science | Developer & Startup Enthusiast
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/syedmustafa29)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmustafa29)
 
 
