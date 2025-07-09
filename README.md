@@ -66,12 +66,6 @@ streamlit run frontend.py
 
 ![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/MUSTAFAOP29/NSI-BOOKING-APP/blob/05aea1de860856a3bfd499414c8732d926e302d5/Screenshot%20(2219).png))
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/MUSTAFAOP29/NSI-BOOKING-APP/blob/05aea1de860856a3bfd499414c8732d926e302d5/Screenshot%20(2219).png))
-
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/MUSTAFAOP29/NSI-BOOKING-APP/blob/05aea1de860856a3bfd499414c8732d926e302d5/Screenshot%20(2219).png))
-
-
-
 
 ##⚠️ Important Notes
 Database file hall_booking.db is excluded from GitHub for security & storage reasons.
