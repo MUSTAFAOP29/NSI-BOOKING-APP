@@ -6,7 +6,7 @@ A **Hall Booking Web Application** built with **FastAPI** and **Streamlit**, ena
 ![FastAPI](https://img.shields.io/badge/FastAPI-High--Performance-brightgreen)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-orange)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Status](https://img.shields.io/badge/Status-Pending-brigtyellow)
 
 ---
 
